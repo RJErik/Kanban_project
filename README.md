@@ -1,6 +1,7 @@
 # sv
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+Projektmenedzsment
+A felhasználóknak lehetőségük lesz csatlakozni, létrehozni, valamint nyomon követni kanban rendszerű projekteket. A felhasználói profilképeket külső API kezelné.
 
 ## Creating a project
 
